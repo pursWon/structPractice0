@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D09924D828937123008112DB /* structPractice0App.swift in Sources */ = {isa = PBXBuildFile; fileRef = D09924D728937123008112DB /* structPractice0App.swift */; };
+		D09924D828937123008112DB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D09924D728937123008112DB /* main.swift */; };
 		D09924DA28937123008112DB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D09924D928937123008112DB /* ContentView.swift */; };
 		D09924DC28937124008112DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D09924DB28937124008112DB /* Assets.xcassets */; };
 		D09924DF28937124008112DB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D09924DE28937124008112DB /* Preview Assets.xcassets */; };
@@ -35,7 +35,7 @@
 
 /* Begin PBXFileReference section */
 		D09924D428937123008112DB /* structPractice0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = structPractice0.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D09924D728937123008112DB /* structPractice0App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = structPractice0App.swift; sourceTree = "<group>"; };
+		D09924D728937123008112DB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D09924D928937123008112DB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D09924DB28937124008112DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D09924DE28937124008112DB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -95,7 +95,7 @@
 		D09924D628937123008112DB /* structPractice0 */ = {
 			isa = PBXGroup;
 			children = (
-				D09924D728937123008112DB /* structPractice0App.swift */,
+				D09924D728937123008112DB /* main.swift */,
 				D09924D928937123008112DB /* ContentView.swift */,
 				D09924DB28937124008112DB /* Assets.xcassets */,
 				D09924E028937124008112DB /* structPractice0.entitlements */,
@@ -260,7 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D09924DA28937123008112DB /* ContentView.swift in Sources */,
-				D09924D828937123008112DB /* structPractice0App.swift in Sources */,
+				D09924D828937123008112DB /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
